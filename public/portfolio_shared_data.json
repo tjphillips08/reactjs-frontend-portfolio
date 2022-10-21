@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Taylor Phillips",
+      "titles": [ "Front-end Developer", "Full Stack Software Engineer", "Technical Project Manager", "Scrum Master" ],
       "social": [
         {
           "name": "github",
@@ -29,13 +29,13 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Django",
+          "class": "devicon-django-plain",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
           "level": "90"
         },
         {
@@ -44,8 +44,8 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Python",
+          "class": "devicon-python-plain colored",
           "level": "75"
         },
         {
@@ -54,13 +54,13 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "React",
+          "class": "devicon-react-original colored",
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "Postgresql",
+          "class": "devicon-postgresql-plain colored",
           "level": "60"
         }
       ]
