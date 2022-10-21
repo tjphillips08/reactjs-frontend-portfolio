@@ -1,0 +1,138 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Taylor Phillips. Problem solver and a professional learner. I'm working with multiple full-stack frameworks like Python, React, Django, JS, PostgresQL and many more. I bring 10 years of management experience as well as 2 years of education experience with me into the tech space. I am also a certified Scrum Master looking to be your next Software Engineer and/or Technical PM.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Approach",
+        "startDate": "2022",
+        "description": "Full-stack application that bridges the gap between golfers and local courses. Application for golfers to meet other fellow golfers for meet-ups, post/comment in a forum and find local courses.",
+        "images": [
+          "images/portfolio/approach/p1.jpg",
+          "images/portfolio/approach/p2.jpg"
+        ],
+        "url": "https://approach-golf.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-postgresql-plain colored",
+            "name": "Postgresql"
+          },
+          {
+            "class": "devicon-bulma-plain",
+            "name": "Bulma"
+          }
+        ]
+      },
+      {
+        "title": "CO Healthy Homemade",
+        "startDate": "2022",
+        "description": "Full-stack application built for a client to streamline her business by having a user interface and chef interface where clients can view their weekly menus and contact the company regarding any additional comments or support. ",
+        "images": [
+          "images/portfolio/healthy-homemade/p1.jpg",
+          "images/portfolio/healthy-homemade/p2.jpg"
+        ],
+        "url": "https://co-healthy-homemade.netlify.app/home",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Noob Insider",
+        "startDate": "2022",
+        "description": "Full-stack application where users can create an account and review/leave comments on new and upcoming games.",
+        "images": [
+          "images/portfolio/noob-insider/p1.jpg",
+          "images/portfolio/noob-insider/p2.jpg"
+        ],
+        "url": "https://obscure-fortress-74365.herokuapp.com/games",
+        "technologies": [
+          {
+            "class": "devicon-express-plain",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-mongodb-plain-wordmark",
+            "name": "MongoDB"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Independent Contractor",
+        "title": "Project Manager",
+        "years": "09.2022 - present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "Python",
+          "JavaScript",
+          "Bootstrap",
+          "React",
+          "Django",
+          "NodeJS",
+          "MongoDB",
+          "Bulma"
+        ]
+      },
+      {
+        "company": "General Assembly",
+        "title": "Student Fellow",
+        "years": "07.2022 - 10.2022",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "Python",
+          "JavaScript",
+          "Bootstrap",
+          "React",
+          "Django",
+          "NodeJS",
+          "MongoDB",
+          "Bulma"
+        ]
+      }
+    ]
+  }

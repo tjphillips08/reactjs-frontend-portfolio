@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Taylor Phillips",
+      "titles": [ "Front-end Developer", "Full Stack Software Engineer", "Technical Project Manager", "Scrum Master" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/tjphillips08",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/taylorjphillips90/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "80"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain colored",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original colored",
+          "level": "65"
+        },
+        {
+          "name": "Postgresql",
+          "class": "devicon-postgresql-plain colored",
+          "level": "60"
+        }
+      ]
+    }
+  }
