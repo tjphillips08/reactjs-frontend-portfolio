@@ -15,8 +15,8 @@
         "startDate": "2022",
         "description": "Full-stack application that bridges the gap between golfers and local courses. Application for golfers to meet other fellow golfers for meet-ups, post/comment in a forum and find local courses.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/approach/p1.jpg",
+          "images/portfolio/approach/p2.jpg"
         ],
         "url": "https://approach-golf.herokuapp.com/",
         "technologies": [
@@ -43,8 +43,8 @@
         "startDate": "2022",
         "description": "Full-stack application built for a client to streamline her business by having a user interface and chef interface where clients can view their weekly menus and contact the company regarding any additional comments or support. ",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/healthy-homemade/p1.jpg",
+          "images/portfolio/healthy-homemade/p2.jpg"
         ],
         "url": "https://co-healthy-homemade.netlify.app/home",
         "technologies": [
@@ -71,8 +71,8 @@
         "startDate": "2022",
         "description": "Full-stack application where users can create an account and review/leave comments on new and upcoming games.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/noob-insider/p1.jpg",
+          "images/portfolio/noob-insider/p2.jpg"
         ],
         "url": "https://obscure-fortress-74365.herokuapp.com/games",
         "technologies": [
