@@ -10,8 +10,10 @@ class ProjectDetailsModal extends Component {
       const technologies = this.props.data.technologies;
       const images = this.props.data.images;
       var title = this.props.data.title;
+      var Link = this.props.data.link;
       var description = this.props.data.description;
       var url = this.props.data.url;
+      var github = this.props.data.github;
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
           return (
@@ -82,6 +84,22 @@ class ProjectDetailsModal extends Component {
               {url ? (
                 <a
                   href={url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="link-href"
+                >
+                  <i
+                    className="fas fa-external-link-alt"
+                    style={{ marginLeft: "10px" }}
+                  ></i>
+                </a>
+              ) : null}
+            </h3>
+            <h3 style={{ padding: "5px 5px 0 5px" }}>
+              {Link}
+              {github ? (
+                <a
+                  href={github}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="link-href"
