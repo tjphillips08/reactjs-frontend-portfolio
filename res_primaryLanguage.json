@@ -16,7 +16,7 @@
       "startDate": "2025",
       "description": "A C-based embedded system simulator that mimics an aerospace barometric altitude monitor, complete with virtual sensor input, fault detection (rapid descent), CSV data logging, and a UART-style command interface — no hardware required.",
       "images": [
-        "images/portfolio/vab/cli.jpg"
+        "images/portfolio/vab/p1.jpg"
       ],
       "github": "https://github.com/tjphillips08/virtual-altitude-monitor",
       
