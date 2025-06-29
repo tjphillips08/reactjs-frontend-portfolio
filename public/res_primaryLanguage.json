@@ -120,8 +120,28 @@
     ],
     "experience": [
       {
-        "company": "Independent Contractor",
-        "title": "Project Manager",
+        "company": "Future Fuel Chemical Company",
+        "title": "Full Stack Software Engineer",
+        "years": "12.2022 - present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "Classic ASP",
+          "VBScript",
+          "REST API",
+          "Python",
+          "JavaScript",
+          "Bootstrap",
+          "React",
+          "IIS",
+          "SQL",
+          "MySQL"
+        ]
+      },
+      {
+        "company": "Visionary Devs",
+        "title": "Lead Software Engineer/Project Manager",
         "years": "09.2022 - present",
         "mainTech": [
           "React"
@@ -134,7 +154,7 @@
           "React",
           "Django",
           "NodeJS",
-          "MongoDB",
+          "PostgresQL",
           "Bulma"
         ]
       },
