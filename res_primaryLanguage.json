@@ -11,6 +11,32 @@
   },
   "projects": [
     {
+      "title": "FlowClaims",
+      "link": "GitHub",
+      "startDate": "2025",
+      "description": "A full-stack web platform for visualizing and managing weather-related insurance claims with real-time location and environmental context.",
+      "images": [
+        "images/portfolio/flowclaims/p1.jpg",
+        "images/portfolio/flowclaims/p2.jpg"
+      ],
+      "url": "https://flowclaims.netlify.app/",
+      "github": "https://github.com/tjphillips08/FlowClaims",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-postgresql-plain colored",
+          "name": "Postgresql"
+        }
+      ]
+    },
+    {
       "title": "Virtual Altitude Monitor",
       "link": "GitHub",
       "startDate": "2025",
@@ -84,36 +110,6 @@
         {
           "class": "devicon-bootstrap-plain",
           "name": "Bootstrap"
-        }
-      ]
-    },
-    {
-      "title": "Noob Insider",
-      "link": "GitHub",
-      "startDate": "2022",
-      "description": "Full-stack application where users can create an account and review/leave comments on new and upcoming games.",
-      "images": [
-        "images/portfolio/noob-insider/p1.jpg",
-        "images/portfolio/noob-insider/p2.jpg"
-      ],
-      "url": "https://obscure-fortress-74365.herokuapp.com/games",
-      "github": "https://github.com/tjphillips08/Video-game-news",
-      "technologies": [
-        {
-          "class": "devicon-express-plain",
-          "name": "Express"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "NodeJS"
-        },
-        {
-          "class": "devicon-mongodb-plain-wordmark",
-          "name": "MongoDB"
         }
       ]
     }
