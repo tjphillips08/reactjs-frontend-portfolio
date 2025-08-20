@@ -11,6 +11,31 @@
   },
   "projects": [
     {
+      "title": "Claim Narrative Generator",
+      "link": "GitHub",
+      "startDate": "2025",
+      "description": "An AI-powered web widget that generates professional insurance claim narratives in customizable tones and formats.",
+      "images": [
+        "images/portfolio/widget/p1.jpg",
+        "images/portfolio/widget/p2.jpg"
+      ],
+      "github": "https://github.com/tjphillips08/claim-narrator-frontend",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-postgresql-plain colored",
+          "name": "Postgresql"
+        }
+      ]
+    },
+    {
       "title": "FlowClaims",
       "link": "GitHub",
       "startDate": "2025",
